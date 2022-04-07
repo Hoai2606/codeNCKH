@@ -1,0 +1,6 @@
+phantomjs .\index.js https://nhacaiso.top/vua-bai88/
+=> input.txt (file chứa all url).
+py -u .\urlQC.py
+=> output.txt (file chứa all url quảng cáo).
+py -u .\outQCDH.py
+=> kq.txt (file chứa all url độc hại).
